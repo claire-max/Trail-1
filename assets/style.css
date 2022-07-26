@@ -1,4 +1,4 @@
-h1{
+.center{
     text-align: center;
 }
 
@@ -14,3 +14,33 @@ h1{
     color: green;
 }
 
+.big{
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.small{
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.changefont{
+    font-family: 'Quicksand', sans-serif;
+}
+
+#special{
+    font-size: 40px;
+    font-weight: bold;
+    color: orange;
+}
+
+.styledFont{
+
+    font-family: 'Quicksand', sans-serif; 
+    font-style: italic;
+    color: purple;
+}
